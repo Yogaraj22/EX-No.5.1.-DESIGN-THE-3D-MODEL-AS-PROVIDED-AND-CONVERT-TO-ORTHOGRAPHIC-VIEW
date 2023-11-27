@@ -33,7 +33,8 @@ Switch to drawing mode from design mode
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-![image](https://github.com/Yogaraj22/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/144758740/1dd7fe14-cd24-4b29-9d2c-06b796f3d9ce)
+![image](https://github.com/Yogaraj22/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/144758740/e0016aab-feeb-4878-a81b-bda1bc20b095)
+
 
 
 ## OUTPUT
